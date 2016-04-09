@@ -1,0 +1,12 @@
+[API information]
+
+Consumer Key		_GHyOtIbZl0GCrjsQDYSwg
+Consumer Secret		WDqxsZJdKcg4BmI-bBBcfdQhNt4
+Token			EvYL_JqVpEAq0tzasuwdn_5JZ_adm59I
+Token Secret		xEvIsXujBvWEE_mYYqHaIc9olrU
+
+[API String]
+
+--Get TOP 10 restaurants in one destination
+https://api.yelp.com/v2/search/?location=San Francisco, CA&limit=10&category_filter=restaurants
+
